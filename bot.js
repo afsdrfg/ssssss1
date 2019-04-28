@@ -87,6 +87,10 @@ r#inv
 The steps of the role did not worked .!!
 1- Place the role of the Rainbow above the colors or colored ranks if it
 2- Put the bot role above the role of the Rainbow 
+ملاحظه 
+البوت من صنع جاك 
+رابط السبورت 
+https://discord.gg/aCjYe3
 رآبط البوت - Bot Invite link
 - hhttp://cutt.us/HPkx6
 =====================🌈 RainbowBot. 🌈=====================
